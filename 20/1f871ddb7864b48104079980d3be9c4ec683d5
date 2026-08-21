@@ -1,0 +1,14 @@
+README.md
+  h_6585fd3eecd6fb 13-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "201f871ddb7864b48104079980d3be9c4ec683d5",
+  "prompts": {},
+  "humans": {
+    "h_6585fd3eecd6fb": {
+      "author": "muhammet.aktas <muhammet@oobeya.io>"
+    }
+  }
+}
